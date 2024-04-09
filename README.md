@@ -10,13 +10,24 @@
 * CO2 Emissions
 
 ## Learning Outcomes
-* Become aquainted with the steps involved in a typical data analysis process.
-* Gain experience in generating and answering plausible questions given a specific dataset(s).
-* Learn how to identify and investigate problems in a dataset, and wrangle/clean the data.
-* Gain experience communicating the results of a data analysis.
-* Experience in using vectorized operations in NumPy and pandas to speed up data analysis code.
-* Become familiar with pandas' Series and DataFrame objects.
-* Learn how to use Matplotlib to produce plots illustrating your findings.
+* Became aquainted with the steps involved in a typical data analysis process.
+* Gained experience in generating and answering plausible questions given a specific dataset(s).
+* Learned how to identify and investigate problems in a dataset, and wrangle/clean the data.
+* Gained experience communicating the results of a data analysis.
+* Experienced in using vectorized operations in NumPy and pandas to speed up data analysis code.
+* Became familiar with pandas' Series and DataFrame objects.
+* Learned how to use Matplotlib to produce plots illustrating your findings.
+
+## Visualizations & Observations
+![co2](./pop_vs_co2.png)
+<br>
+![happiness](./pop_vs_happiness.png)
+<br>
+![literacy](./pop_vs_literacy.png)
+
+## Conclusion
+![conclusion](./conclusion.png)
+
 
 ## References
 * Udacity Data Analyst Nanodegree Documentation/Cirriculum
